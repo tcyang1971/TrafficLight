@@ -33,6 +33,8 @@ public class MainActivity extends AppCompatActivity {
         it.setClass(this, GameActivity.class);
         startActivity(it);
         finish();
+
+        //test
     }
 
     public void EndApp(View v){
